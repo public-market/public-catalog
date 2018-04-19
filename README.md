@@ -1,6 +1,6 @@
 # Universal Catalogue - Public Connection Platform
 
-[![pipeline status](https://gitlab.com/publicmarket/open-inventory/badges/master/pipeline.svg)](https://gitlab.com/publicmarket/open-inventory/commits/master)
+[![pipeline status](https://gitlab.com/publicmarket/universal-catalogue/badges/master/pipeline.svg)](https://gitlab.com/publicmarket/open-inventory/commits/master)
 [![Maintainability](https://api.codeclimate.com/v1/badges/8b45e43ce5c91331fa9f/maintainability)](https://codeclimate.com/github/public-market/universal-catalogue/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/8b45e43ce5c91331fa9f/test_coverage)](https://codeclimate.com/github/public-market/universal-catalogue/test_coverage)
 
