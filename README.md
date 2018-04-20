@@ -1,8 +1,8 @@
 # Universal Catalogue - Public Connection Platform
 
-[![pipeline status](https://gitlab.com/publicmarket/universal-catalogue/badges/master/pipeline.svg)](https://gitlab.com/publicmarket/open-inventory/commits/master)
-[![Maintainability](https://api.codeclimate.com/v1/badges/8b45e43ce5c91331fa9f/maintainability)](https://codeclimate.com/github/public-market/universal-catalogue/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/8b45e43ce5c91331fa9f/test_coverage)](https://codeclimate.com/github/public-market/universal-catalogue/test_coverage)
+[![pipeline status](https://gitlab.com/publicmarket/universal-catalogue/badges/master/pipeline.svg)](https://gitlab.com/publicmarket/universal-catalogue/commits/master)
+[![Maintainability](https://api.codeclimate.com/v1/badges/fb20009b5ed7309d0667/maintainability)](https://codeclimate.com/github/abundance-labs/universal-catalogue/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/fb20009b5ed7309d0667/test_coverage)](https://codeclimate.com/github/abundance-labs/universal-catalogue/test_coverage)
 
 Metadata provides important information about a product that is universal to all copies of that product, typically linked to a unique identifier. In the case of books, this would be the title, author, publication year and even weight linked to the ISBN of the book. In electronics, this could be the model year, manufacturer and feature set linked to the UPC.
 
