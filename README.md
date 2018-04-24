@@ -1,4 +1,4 @@
-![Abundance Labs](.github/public_market_readme_banner_1024_big.png)
+![Public Market Foundation](.github/public_market_readme_banner_1024_big.png)
 
 # Universal Catalogue - Public Connection Platform
 
