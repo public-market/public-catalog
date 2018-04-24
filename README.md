@@ -1,3 +1,5 @@
+![Abundance Labs](.github/AbundanceLabs_readme_banner.png)
+
 # Universal Catalogue - Public Connection Platform
 
 [![pipeline status](https://gitlab.com/publicmarket/universal-catalogue/badges/master/pipeline.svg)](https://gitlab.com/publicmarket/universal-catalogue/commits/master)
