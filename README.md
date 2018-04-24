@@ -1,6 +1,6 @@
 ![Public Market Foundation](.github/public_market_readme_banner_1024_big.png)
 
-# Universal Catalogue - Public Connection Platform
+# Public Catalog System
 
 [![pipeline status](https://gitlab.com/publicmarket/universal-catalogue/badges/master/pipeline.svg)](https://gitlab.com/publicmarket/universal-catalogue/commits/master)
 [![Maintainability](https://api.codeclimate.com/v1/badges/fb20009b5ed7309d0667/maintainability)](https://codeclimate.com/github/abundance-labs/universal-catalogue/maintainability)
