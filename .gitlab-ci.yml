@@ -1,6 +1,6 @@
 variables:
   DOCKER_DRIVER: overlay2 # use faster volume driver
-  DOCKER_IMAGE: registry.gitlab.com/publicmarket/global-reputation
+  DOCKER_IMAGE: registry.gitlab.com/publicmarket/universal-catalogue
 
 stages:
   - build
@@ -29,7 +29,7 @@ rspec:
       - vendor/bundle
       - cc-test-reporter
   variables:
-    POSTGRES_DB: global_reputation_test
+    POSTGRES_DB: universal-catalogue_test
     DATABASE_URL: "postgresql://postgres:postgres@postgres:5432/$POSTGRES_DB"
     RAILS_ENV: test
   before_script:

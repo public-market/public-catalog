@@ -4,15 +4,12 @@
 *.sql
 *.md
 
-.vscode
 .rspec
 .overcommit.yml
 .rubocop.yml
-Guardfile
-Procfile.*
+.codeclimate.yml
 
 .git
-.gitlab
 .github
 
 coverage
