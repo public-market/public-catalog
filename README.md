@@ -1,21 +1,23 @@
 ![Public Market Foundation](.github/public_market_readme_banner_1024_big.png)
 
-# Public Catalog System
+# Public Catalog
 
 [![pipeline status](https://gitlab.com/publicmarket/universal-catalogue/badges/master/pipeline.svg)](https://gitlab.com/publicmarket/universal-catalogue/commits/master)
 [![Maintainability](https://api.codeclimate.com/v1/badges/f35baea9561310922d9f/maintainability)](https://codeclimate.com/github/public-market-foundation/public-catalog/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/f35baea9561310922d9f/test_coverage)](https://codeclimate.com/github/public-market-foundation/public-catalog/test_coverage)
 
-Metadata provides important information about a product that is universal to all copies of that product, typically linked to a unique identifier. In the case of books, this would be the title, author, publication year and even weight linked to the ISBN of the book. In electronics, this could be the model year, manufacturer and feature set linked to the UPC.
+Public Catalog provides a mechanism for product metadata management, consumption, and publishing. Metadata provides important information about a product that is universal to all copies of that product, typically linked to a unique product identifier such as International Standard Book Number (ISBN) or Universal Product Code (UPC). For example, for a book, the metadata in question would include the title, author, publication year, cover image and perhaps details such as weight and dimension, linked to the ISBN of the book. Or, for electronics, the metadata could include product images, name, model year, manufacturer and feature set linked to the UPC. 
 
-Proprietary metadata is very important to the private marketplaces. Metadata is the primary set of data that is indexed by their search engines. Better metadata means more relevant search results. Metadata also locks online sellers into their platform. It is prohibitively expensive for small and midsize online sellers to create or license metadata datasets. As a result, they leverage the resources of the large online marketplaces, and therefore become reliant on them.
 
-A new paradigm is possible. In fact, it is somewhat surprising that it has not already been done. A wiki-style crowdsourced metadata database would be more relevant, higher quality, and deeper than even the most ambitious private marketplace. This would allow much more widespread innovation in eCommerce, allowing small and midsize businesses to build their online stores using the same quality of metadata as the large marketplaces.
 
-## Technical Details
+## Contributing
 
-Public protection platform is Rails API application provides the following JSON:API ([http://jsonapi.org/](http://jsonapi.org/)) endpoints:
+See [how you can help](.github/CONTRIBUTING.md).
 
-## LICENSE
+## Code of Conduct
+
+Public Market Foundation [Code of Conduct](.github/CODE_OF_CONDUCT.md).
+
+## License
 
 Copyright (c) 2018 Public Market Foundation, released under the LGPL
